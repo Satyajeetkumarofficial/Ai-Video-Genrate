@@ -1,0 +1,13 @@
+pyrogram==2.0.39
+tgcrypto
+uvicorn
+fastapi
+diffusers[torch]
+transformers
+accelerate
+torch
+numpy
+Pillow
+moviepy
+ffmpeg-python
+python-multipart
