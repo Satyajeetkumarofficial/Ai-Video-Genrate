@@ -1,10 +1,13 @@
 pyrogram==2.0.39
 tgcrypto
-fastapi
 uvicorn
-ffmpeg-python
-Pillow
-requests
+fastapi
+diffusers[torch]
+transformers
+accelerate
+torch
 numpy
+Pillow
 moviepy
+ffmpeg-python
 python-multipart
